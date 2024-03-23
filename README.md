@@ -1,2 +1,2 @@
-# Cpp-Lab
+# cpp-Lab
 C++ exercises and misc
